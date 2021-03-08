@@ -1,0 +1,14 @@
+{
+    "users":[
+        {
+            "id":"unique-1",
+           "name":"Eda Okyay",
+            "department":"Bilişim"
+          },
+          {
+            "id":"unique-2",
+            "name":"Esra Sayın",
+            "department":"Bilişim"
+          }
+    ]
+}
